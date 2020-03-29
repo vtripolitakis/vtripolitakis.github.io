@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Few words about me
 
-### More Information
+### 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Web worker :-)
 
-### Contact me
+- ES6/TypeScript
+- Python
+- PHP
+- SCSS/SASS
 
-[email@domain.com](mailto:email@domain.com)
+### Research
+- Recommender Systems
+- Multi-Agent Systems
+
+### Contact Email
+
+[vtripolitakis@gmail.com](mailto:vtripolitakis@gmail.com)
