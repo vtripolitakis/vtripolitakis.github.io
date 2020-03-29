@@ -6,11 +6,10 @@ permalink: /about/
 
 Few words about me
 
-### 
-
 ### Web worker :-)
 
 - ES6/TypeScript
+- React
 - Python
 - PHP
 - SCSS/SASS
